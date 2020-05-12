@@ -43,6 +43,7 @@ main p{
 .contact{
   margin: 40px auto;
   font-family: monospace;
+  text-align: center;
 }
 .contact p{
   margin: 5px;
